@@ -1,2 +1,2 @@
-# MyCelebrity
+# MyFirstUserApp
  My Personal Coding Workspace
